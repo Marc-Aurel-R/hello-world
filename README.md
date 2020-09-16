@@ -1,2 +1,2 @@
 # hello-world
-Digital Product Strategist keen on accessibility, usability and seo.
+Digital product strategist keen on accessibility, usability and seo. 
